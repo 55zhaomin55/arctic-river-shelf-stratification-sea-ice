@@ -1,0 +1,55 @@
+cff-version: 1.2.0
+message: "If you use this software or processed data, please cite the archived release using the metadata below."
+title: "Reproducibility code and processed data for From River Freshwater to Near-Surface Stratification: Shelf-Dependent Links to Arctic Summer Sea Ice"
+type: software
+version: 1.0.0
+date-released: 2026-09-13
+license: MIT
+authors:
+  - family-names: "Zhao"
+    given-names: "Min"
+    affiliation: "College of Oceanography, Hohai University; School of Engineering, Cardiff University"
+  - family-names: "Bai"
+    given-names: "Xuezhi"
+    affiliation: "College of Oceanography, Hohai University"
+  - family-names: "Bai"
+    given-names: "Diandian"
+    affiliation: "College of Oceanography, Hohai University"
+  - family-names: "Pan"
+    given-names: "Shunqi"
+    affiliation: "School of Engineering, Cardiff University"
+keywords:
+  - Arctic Ocean
+  - river freshwater
+  - near-surface haline stratification
+  - summer sea ice
+  - river-shelf systems
+  - shelf hydrography
+  - MATLAB
+  - reproducibility
+repository-code: "https://github.com/REPLACE-WITH-FINAL-REPOSITORY"
+abstract: >-
+  MATLAB code and processed analysis inputs used to reproduce the figures and
+  principal statistical analyses for the study From River Freshwater to
+  Near-Surface Stratification: Shelf-Dependent Links to Arctic Summer Sea Ice.
+  The archive covers six Arctic river-shelf systems during 1979-2024 and
+  includes analyses of river discharge, upper-ocean salinity, near-surface
+  haline stratification, summer sea ice, atmospheric controls, spatial-domain
+  sensitivity, and temporal variability.
+preferred-citation:
+  type: software
+  title: "Reproducibility code and processed data for From River Freshwater to Near-Surface Stratification: Shelf-Dependent Links to Arctic Summer Sea Ice"
+  version: 1.0.0
+  year: 2026
+  authors:
+    - family-names: "Zhao"
+      given-names: "Min"
+    - family-names: "Bai"
+      given-names: "Xuezhi"
+    - family-names: "Bai"
+      given-names: "Diandian"
+    - family-names: "Pan"
+      given-names: "Shunqi"
+  publisher:
+    name: "Zenodo"
+  doi: "REPLACE-WITH-ZENODO-DOI"

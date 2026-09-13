@@ -1,0 +1,12 @@
+.DS_Store
+*.asv
+*.m~
+*.tmp
+*.log
+
+output/*
+!output/.gitkeep
+
+publication_inputs/
+data_preparation_log.txt
+GENERATED_FILES.txt
